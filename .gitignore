@@ -1,0 +1,11 @@
+# 音频数据
+data/raw/*.wav
+# 特征文件
+data/processed/
+# 模型权重
+models/*.pt
+# 结果文件
+results/predictions*.csv
+results/figures/
+# Python 缓存
+__pycache__/
